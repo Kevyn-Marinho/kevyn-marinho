@@ -7,4 +7,4 @@
 - 🔭 I’m currently working on a new digital product at Uol EdTech
 - 🌱 I’m currently improving my english and my proficiency in angular 
 - 💬 Ask me about anything, maybe i cannot solve your questions but i'll try 
-- ⚡ Fun fact: I'm not so fun, but a nice guy
+- ⚡ Fun fact: I'm not so fun
