@@ -4,7 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevyn-marinho&layout=compact)](https://github.com/rodrigorf/github-readme-stats)
 
-- 🔭 I’m currently working on a new digital product at Uol EdTech
-- 🌱 I’m currently improving my english and my proficiency in angular 
-- 💬 Ask me about anything, maybe i cannot solve your questions but i'll try 
-- ⚡ Fun fact: I'm not so fun
+Estudando java e mongo e leetcode e estrutura de dados e system design 
+Se souber de bons repositórios com esses conteúdos, não ouse gardar só pra você, compartilha com o amiguinho. 
+
+java eu estou usando esse aqui como base 
+https://github.com/victorhfsilva/guia-do-back-end-java
