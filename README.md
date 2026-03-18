@@ -4,8 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevyn-marinho&layout=compact)](https://github.com/rodrigorf/github-readme-stats)
 
-Estudando java e mongo e leetcode e estrutura de dados e system design <br>
-Se souber de bons repositórios com esses conteúdos, não ouse guardar só pra você, compartilha com o amiguinho. 
+Software Engineer focused on backend development with .NET and distributed systems.
 
-java eu estou usando esse aqui como base 
-https://github.com/victorhfsilva/guia-do-back-end-java
+Currently working with high-availability systems in the financial sector, building and evolving APIs, microservices, and integrations between multiple domains.
+
+Here you’ll find studies and hands-on experiments in system design, data structures, and backend technologies (Java, .NET, messaging, databases), focused on scalability and real-world problem solving.
